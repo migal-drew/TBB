@@ -8,7 +8,7 @@
 #include "tbb/tick_count.h"
 #include <cfloat>
 #include <time.h>
-#include <fcntl.h>s
+#include <fcntl.h>
 
 using namespace tbb;
 

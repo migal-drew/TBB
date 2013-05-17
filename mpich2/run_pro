@@ -1,0 +1,4 @@
+mpic++.mpich2 findmin_mpich2.cpp -o findmin_mpich2
+
+echo 'Running...'
+mpirun.mpich2 -n 2 ./findmin_mpich2
