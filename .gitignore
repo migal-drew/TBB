@@ -3,3 +3,4 @@
 !*.cpp
 !run_pro
 !mpich2/
+!openmp/
